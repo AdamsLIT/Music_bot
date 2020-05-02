@@ -1,0 +1,323 @@
+17:09:04 Gateway     Disconnected
+
+17:11:53 Discord     Discord.Net v2.2.0 (API v6)
+
+17:11:54 Gateway     Connecting
+
+17:11:54 Gateway     System.PlatformNotSupportedException: Протокол WebSocket не поддерживается в этой платформе.
+   в System.Net.WebSockets.ClientWebSocket..ctor()
+   в Discord.Net.WebSockets.DefaultWebSocketClient.<ConnectInternalAsync>d__27.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.Net.WebSockets.DefaultWebSocketClient.<ConnectAsync>d__26.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.API.DiscordSocketApiClient.<ConnectInternalAsync>d__27.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в Discord.API.DiscordSocketApiClient.<ConnectInternalAsync>d__27.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.API.DiscordSocketApiClient.<ConnectAsync>d__26.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.WebSocket.DiscordSocketClient.<OnConnectingAsync>d__99.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в Discord.WebSocket.DiscordSocketClient.<OnConnectingAsync>d__99.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.ConnectionManager.<ConnectAsync>d__31.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.ConnectionManager.<>c__DisplayClass29_0.<<StartAsync>b__0>d.MoveNext()
+
+17:11:54 Gateway     Disconnecting
+
+17:11:54 Gateway     Disconnected
+
+17:11:55 Gateway     Connecting
+
+17:11:55 Gateway     System.PlatformNotSupportedException: Протокол WebSocket не поддерживается в этой платформе.
+   в System.Net.WebSockets.ClientWebSocket..ctor()
+   в Discord.Net.WebSockets.DefaultWebSocketClient.<ConnectInternalAsync>d__27.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.Net.WebSockets.DefaultWebSocketClient.<ConnectAsync>d__26.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.API.DiscordSocketApiClient.<ConnectInternalAsync>d__27.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в Discord.API.DiscordSocketApiClient.<ConnectInternalAsync>d__27.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.API.DiscordSocketApiClient.<ConnectAsync>d__26.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.WebSocket.DiscordSocketClient.<OnConnectingAsync>d__99.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в Discord.WebSocket.DiscordSocketClient.<OnConnectingAsync>d__99.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.ConnectionManager.<ConnectAsync>d__31.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.ConnectionManager.<>c__DisplayClass29_0.<<StartAsync>b__0>d.MoveNext()
+
+17:11:55 Gateway     Disconnecting
+
+17:11:55 Gateway     Disconnected
+
+17:11:57 Gateway     Connecting
+
+17:11:57 Gateway     System.PlatformNotSupportedException: Протокол WebSocket не поддерживается в этой платформе.
+   в System.Net.WebSockets.ClientWebSocket..ctor()
+   в Discord.Net.WebSockets.DefaultWebSocketClient.<ConnectInternalAsync>d__27.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.Net.WebSockets.DefaultWebSocketClient.<ConnectAsync>d__26.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.API.DiscordSocketApiClient.<ConnectInternalAsync>d__27.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в Discord.API.DiscordSocketApiClient.<ConnectInternalAsync>d__27.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.API.DiscordSocketApiClient.<ConnectAsync>d__26.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.WebSocket.DiscordSocketClient.<OnConnectingAsync>d__99.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в Discord.WebSocket.DiscordSocketClient.<OnConnectingAsync>d__99.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.ConnectionManager.<ConnectAsync>d__31.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.ConnectionManager.<>c__DisplayClass29_0.<<StartAsync>b__0>d.MoveNext()
+
+17:11:57 Gateway     Disconnecting
+
+17:11:57 Gateway     Disconnected
+
+17:12:01 Gateway     Connecting
+
+17:12:01 Gateway     System.PlatformNotSupportedException: Протокол WebSocket не поддерживается в этой платформе.
+   в System.Net.WebSockets.ClientWebSocket..ctor()
+   в Discord.Net.WebSockets.DefaultWebSocketClient.<ConnectInternalAsync>d__27.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.Net.WebSockets.DefaultWebSocketClient.<ConnectAsync>d__26.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.API.DiscordSocketApiClient.<ConnectInternalAsync>d__27.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в Discord.API.DiscordSocketApiClient.<ConnectInternalAsync>d__27.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.API.DiscordSocketApiClient.<ConnectAsync>d__26.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.WebSocket.DiscordSocketClient.<OnConnectingAsync>d__99.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в Discord.WebSocket.DiscordSocketClient.<OnConnectingAsync>d__99.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.ConnectionManager.<ConnectAsync>d__31.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.ConnectionManager.<>c__DisplayClass29_0.<<StartAsync>b__0>d.MoveNext()
+
+17:12:01 Gateway     Disconnecting
+
+17:12:01 Gateway     Disconnected
+
+17:12:09 Gateway     Connecting
+
+17:12:09 Gateway     System.PlatformNotSupportedException: Протокол WebSocket не поддерживается в этой платформе.
+   в System.Net.WebSockets.ClientWebSocket..ctor()
+   в Discord.Net.WebSockets.DefaultWebSocketClient.<ConnectInternalAsync>d__27.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.Net.WebSockets.DefaultWebSocketClient.<ConnectAsync>d__26.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.API.DiscordSocketApiClient.<ConnectInternalAsync>d__27.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в Discord.API.DiscordSocketApiClient.<ConnectInternalAsync>d__27.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.API.DiscordSocketApiClient.<ConnectAsync>d__26.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.WebSocket.DiscordSocketClient.<OnConnectingAsync>d__99.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в Discord.WebSocket.DiscordSocketClient.<OnConnectingAsync>d__99.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.ConnectionManager.<ConnectAsync>d__31.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.ConnectionManager.<>c__DisplayClass29_0.<<StartAsync>b__0>d.MoveNext()
+
+17:12:09 Gateway     Disconnecting
+
+17:12:09 Gateway     Disconnected
+
+17:12:25 Gateway     Connecting
+
+17:12:25 Gateway     System.PlatformNotSupportedException: Протокол WebSocket не поддерживается в этой платформе.
+   в System.Net.WebSockets.ClientWebSocket..ctor()
+   в Discord.Net.WebSockets.DefaultWebSocketClient.<ConnectInternalAsync>d__27.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.Net.WebSockets.DefaultWebSocketClient.<ConnectAsync>d__26.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.API.DiscordSocketApiClient.<ConnectInternalAsync>d__27.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в Discord.API.DiscordSocketApiClient.<ConnectInternalAsync>d__27.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.API.DiscordSocketApiClient.<ConnectAsync>d__26.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.WebSocket.DiscordSocketClient.<OnConnectingAsync>d__99.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в Discord.WebSocket.DiscordSocketClient.<OnConnectingAsync>d__99.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.ConnectionManager.<ConnectAsync>d__31.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.ConnectionManager.<>c__DisplayClass29_0.<<StartAsync>b__0>d.MoveNext()
+
+17:12:25 Gateway     Disconnecting
+
+17:12:25 Gateway     Disconnected
+
+17:12:56 Gateway     Connecting
+
+17:12:56 Gateway     System.PlatformNotSupportedException: Протокол WebSocket не поддерживается в этой платформе.
+   в System.Net.WebSockets.ClientWebSocket..ctor()
+   в Discord.Net.WebSockets.DefaultWebSocketClient.<ConnectInternalAsync>d__27.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.Net.WebSockets.DefaultWebSocketClient.<ConnectAsync>d__26.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.API.DiscordSocketApiClient.<ConnectInternalAsync>d__27.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в Discord.API.DiscordSocketApiClient.<ConnectInternalAsync>d__27.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.API.DiscordSocketApiClient.<ConnectAsync>d__26.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.WebSocket.DiscordSocketClient.<OnConnectingAsync>d__99.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в Discord.WebSocket.DiscordSocketClient.<OnConnectingAsync>d__99.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.ConnectionManager.<ConnectAsync>d__31.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.ConnectionManager.<>c__DisplayClass29_0.<<StartAsync>b__0>d.MoveNext()
+
+17:12:56 Gateway     Disconnecting
+
+17:12:56 Gateway     Disconnected
+
+17:13:56 Gateway     Connecting
+
+17:13:56 Gateway     System.PlatformNotSupportedException: Протокол WebSocket не поддерживается в этой платформе.
+   в System.Net.WebSockets.ClientWebSocket..ctor()
+   в Discord.Net.WebSockets.DefaultWebSocketClient.<ConnectInternalAsync>d__27.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.Net.WebSockets.DefaultWebSocketClient.<ConnectAsync>d__26.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.API.DiscordSocketApiClient.<ConnectInternalAsync>d__27.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в Discord.API.DiscordSocketApiClient.<ConnectInternalAsync>d__27.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.API.DiscordSocketApiClient.<ConnectAsync>d__26.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.WebSocket.DiscordSocketClient.<OnConnectingAsync>d__99.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в Discord.WebSocket.DiscordSocketClient.<OnConnectingAsync>d__99.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.ConnectionManager.<ConnectAsync>d__31.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   в System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   в Discord.ConnectionManager.<>c__DisplayClass29_0.<<StartAsync>b__0>d.MoveNext()
+
+17:13:56 Gateway     Disconnecting
+
+17:13:56 Gateway     Disconnected
+
+17:18:22 Discord     Discord.Net v2.2.0 (API v6)
+
+17:18:24 Gateway     Connecting
+
+17:18:25 Gateway     Connected
+
+17:18:25 Gateway     Ready
